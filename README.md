@@ -1,4 +1,4 @@
-# ember-apollo-example
+# ember-firebase-example
 
 This repo shows an example of how to query graphql with ember-apollo-client, using the Yelp API. It also shows an example proxy that can be leveraged.
 
